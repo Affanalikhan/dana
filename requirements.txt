@@ -1,0 +1,26 @@
+streamlit==1.32.0
+openai==2.15.0
+python-dotenv==1.0.0
+pandas==2.0.3
+numpy==1.24.3
+plotly==5.15.0
+openpyxl==3.1.2
+sqlalchemy==2.0.19
+pymongo==4.4.1
+pytest==7.4.0
+hypothesis==6.82.0
+
+# ML Training Dependencies
+torch>=2.0.0
+transformers>=4.30.0
+datasets>=2.12.0
+peft>=0.4.0
+accelerate>=0.20.0
+bitsandbytes>=0.39.0
+anthropic>=0.25.0
+flask>=2.3.0
+flask-cors>=4.0.0
+tensorboard>=2.13.0
+
+# Groq API (existing)
+groq>=0.4.0
