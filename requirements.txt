@@ -24,3 +24,8 @@ tensorboard>=2.13.0
 
 # Groq API (existing)
 groq>=0.4.0
+
+# Knowledge Graph & Graph RAG
+py2neo>=2021.2.3
+sentence-transformers>=2.2.0
+neo4j>=5.0.0
